@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eticket/static/css/main.59128ec6.css",
+    "main.js": "/eticket/static/js/main.73d07541.js",
+    "static/js/787.89ea20e8.chunk.js": "/eticket/static/js/787.89ea20e8.chunk.js",
+    "static/media/Frame 19115.jpg": "/eticket/static/media/Frame 19115.4ac2f69ccf56eb5c3467.jpg",
+    "static/media/Rectangle 14.png": "/eticket/static/media/Rectangle 14.d195e88ab8366ffb3189.png",
+    "static/media/Rectangle 12.jpg": "/eticket/static/media/Rectangle 12.cd3fba009ce290cae809.jpg",
+    "static/media/Rectangle 14.jpg": "/eticket/static/media/Rectangle 14.2e9ee0813257e3dfc4e5.jpg",
+    "static/media/Rectangle 16.jpg": "/eticket/static/media/Rectangle 16.d74072929841304adffb.jpg",
+    "static/media/Rectangle 13.jpg": "/eticket/static/media/Rectangle 13.ce97fbbca24010fd9b59.jpg",
+    "static/media/Rectangle 11.jpg": "/eticket/static/media/Rectangle 11.d3c8334475162fc4f5f0.jpg",
+    "static/media/logo.svg": "/eticket/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eticket/index.html",
+    "main.59128ec6.css.map": "/eticket/static/css/main.59128ec6.css.map",
+    "main.73d07541.js.map": "/eticket/static/js/main.73d07541.js.map",
+    "787.89ea20e8.chunk.js.map": "/eticket/static/js/787.89ea20e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59128ec6.css",
+    "static/js/main.73d07541.js"
+  ]
+}
